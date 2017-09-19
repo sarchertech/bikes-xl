@@ -1,0 +1,36 @@
+---
+
+title: Different Rim Sizes
+date: 2017-09-06 21:15 UTC
+category: wheelsets
+tags: 
+  - rims
+  - rim_sizes
+  - wheels
+  - wheel_sets
+
+image: /images/bike4.png
+---
+
+
+<p class="layout-main__paragraph"> 
+The preferred bicycle rim size is going to differ depending on your height and weight. Heavier riders will probably want to go with a smaller circumference for durability, while taller riders will probably want to go with a larger rim to accomodate their height and make their ride more comfortable. The two most commonly use rim sizes are 26 inch and 29 inch, but there is also a 27.5 inch rim which may work for you as a happy medium 
+</p>
+
+<h1 class="layout-main__h1">
+26 inch
+</h1>
+<p class="layout-main__paragraph"> 
+The 26 inch rim is the preferred choice for heavy riders that aren't very tall. Smaller rims have a deeper bracing angle for the spokes, a smaller distance between the spokes. Larger rim failures are typically due to folding - cause by sudden sharp turns combined with excess weight on the front tire - or bending - resulting from hard impacts. Taller rides may still use 26 inch rims as well but they may need to change out the stem and get a larger seat post to accomodate for the height difference and pedal stride. 
+</p>
+
+<h1 class="layout-main__h1">
+29 inch
+</h1>
+<p class="layout-main__paragraph">
+Taller riders will most likely want to use a 29 inch rim. These rims have a larger circumference and a larger point of surface contactwith the ground with higher air volume in the tube. These things together mean that a larger rim covers a greater distance per pedal revolution and it does so much smoother than a smaller rim. Riders under 6 feet tall, however, may have difficulty riding on 29 inch rims comfortably. The larger tire means the seat post will probably have to be lowered to be able to sit on the bike, and a lower seat post means a shorter pedal stride which translates into more pressure exerted on the rider's knee.
+</p>
+
+<p class="layout-main__paragraph">
+Note that there is also a 27.5 inch (called a 650B) as well. This is a slightly less common rim that combines some of the benefits of both the 26 inch and the 29 inch rim but many riders opt for the 29 inch as the combined benefits offered by the 650B aren't dramatically better than what the 29 inch provides. However, this rim may work as a happy medium for you.
+</p>

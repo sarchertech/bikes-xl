@@ -1,0 +1,17 @@
+<div class="paginate">
+	<% if paginate  && num_pages > 1%>
+		<% if prev_page %>
+			<button  class="paginate__button" >
+				<%= link_to '↞  ', prev_page, class: "paginate__link" %>
+			</button>
+		<% end %>
+		<button class="paginate__page-number">
+		<%= page_number %> / <%= num_pages %>
+		</button>
+		<% if next_page %>
+			<button class=" paginate__button">
+				<%= link_to '↠', next_page, class: "paginate__link" %>
+			</button>
+		<% end %>
+	<% end %>
+</div>

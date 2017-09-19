@@ -1,0 +1,58 @@
+---
+
+title: Tire and Tubes
+date: 2017-09-08 17:21 UTC
+category: wheelsets
+tags: 
+  - tires
+  - tubes
+  - wheels
+  - wheel_sets
+  
+image: /images/bike5.png
+---
+
+
+<h1 class="layout-main__h1">
+Mountain Bike Tires
+</h1>
+<p class="layout-main__paragraph"> 
+Mountain bike tires are going to probably be your go-to tire. They are made of a thicker rubber which makes them more durable and they 
+come in a large variety of sizes and widths - from 1.9 inches to 3.7 inches, with there even being a 5 inch special performance tire. 
+Another benefit of using a mountain bike tire is that it give your the option to ride easily on surfaces other than pavement. Just keep in mind that if you go with a super wide tire - 3.7 inches and up - you may need to get a wider rim and may even need to change out 
+your forks and possible your brakes as well so that the tire fits. 
+<br>
+<br>
+Mountain bike tires also offer a variety of tubes depending on the terrain you may be riding on. A few differnt tubes options include but are 
+not limited to downhill tubes, self sealing, and even going tubeless. I'll talk about tubeless tires in just a bit though.
+</p>
+
+<h1 class="layout-main__h1">
+Slicks and Semi Slicks
+</h1>
+<p class="layout-main__paragraph"> 
+I know that suggesting slick/semi slick tires might sound a bit crazy to novice riders at first, but hear me out. Slicks actually offer
+the best amount of traction compared to treaded tires. This is because, well, they are slick and have no tread. Because there is no tread
+on these tires they have a larger area of contact with the surface you are riding on which translates to more friction and, thus, better
+grip. Once you sit on the bike the tread will be splayed and deformed because you are adding weight. After a while these constant 
+deformations can cause permanent warpage to the tire.
+</p>
+
+<h1 class="layout-main__h1">
+Tubeless Tires
+</h1>
+<p class="layout-main__paragraph"> 
+A pinch flat occurs when your tire tube gets pinched by the wheel rim - often times caused by low tire pressure. So the main benefit of 
+a tubeless tire is that it eliminates the issue these of pinch flats. With tubeless tires the valve is mounted directly to the rim and a
+sealant is poured into the tire. When the tire is pumped the pressure between the rim and the tire bead creates an air tight seal. Tubeless
+tires are pretty durable but they are still susceptible to flats from large tire punctures that the sealant cannot repair. I should mention,
+though, that tubeless-ready tires and wheels are more expensive than standard tire and wheels. But if you are feeling adventurous there are
+plenty of video tutorials on how to convert a regular wheel and tire to be tubeless.
+</p>
+
+<h1 class="layout-main__h1">
+Downhill and Heavy Duty Tubes
+</h1>
+<p class="layout-main__paragraph"> 
+If you keep popping tubes then downhill or heavy duty tubes may be exactly what you need. Both of these tubes are made for mountain bike riders so they can take a bit of a beating. Unlike standard mountain bike tubes, though, both of these are thicker - typically downhill tubes are about 1.5mm and heavy duty tubes and some brands of "ultra" or "extreme" heavy duty tubes can be upwards of 2.6mm thick. One main thing that makes downhill tubes unique - even with regard to heavy duty tubes - is that they are designed to be ridden at low pressure while being resistant to pinch flats. 
+</p>

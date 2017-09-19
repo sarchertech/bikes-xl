@@ -1,0 +1,16 @@
+<h1 class="side-list__header"> Recent Posts </h1>
+<div class="side-list">
+  <% blog.articles[0...4].each do |article| %>
+    <article class="side-list__card">
+      <a href=<%= article.url %>>	
+        <figure class="side-list__opacity">
+          <img class="side-list__img" src=<%= article.data.image %>>
+        </figure>
+      </a>
+      <div class="side-list__textwrap">
+      <a class="side-list__title" href="<%= article.url %>"><%= article.title %></a>
+      <%= article.summary(60, '...') %>
+      </div>
+    </article>
+  <% end %>
+</div>

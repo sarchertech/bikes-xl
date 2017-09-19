@@ -1,0 +1,49 @@
+---
+
+title: How Many Spokes Should I Ride?
+date: 2017-08-23 21:16 UTC
+category: wheelsets
+tags: 
+  - spokes
+  - wheels
+  - wheel_sets
+image: /images/bike5.png
+---
+
+
+<p class="layout-main__paragraph">
+To understand the importance of spokes a little scientific explination is useful.
+<br>
+<br> 
+When a rider pedals a bike they are creating both linear-friction force and centripetal force which puts stress on the spokes. Simplified, 
+When you the pedal bike there are two different forces being generated. The linear-friction force propels the bike forward - in the direction 
+you are traveling - and centripetal force rotates the wheel along the axle.
+<!-- INSERT GRAPHIC -->
+</p>
+
+<h1 class="layout-main__h1">
+32 Spokes
+</h1>
+<p class="layout-main__paragraph">
+One of the main advantages of a 32 spoke wheel is that it will be lighter. 32 spoke wheels will commonly be found on cruisers, mountain
+bikes, and road bikes. However, it should be noted that 32 spoke wheels are becoming less common.
+</p>
+
+<h1 class="layout-main__h1">
+36 Spokes
+</h1>
+<p class="layout-main__paragraph">
+For heavy riders a 36 spoke wheel offer more stuctural support to the wheel and is preferred at its availability. A higher number of 
+spokes reduces the overall tension forced upon each spoke. Additonally, 36 spoke wheels have become the most commonly used and, as such, 
+is more widely and readily available.
+</p>
+
+<h1 class="layout-main__h1">
+40/48 Spokes
+</h1>
+<p class="layout-main__paragraph">
+If you are really concerned with the durability of your wheel you can check out tandem wheels. They are made to hold two riders so they
+can hold a heavy rider with ease and the rim is a bit wider. These wheels are extremely durable and the spokes are typically made of a 
+thicker gauge metal so they offer tremendous support but they will be considerably more expensive and with a more limited availability 
+than a 32 or a 36 spoke wheel.
+</p>

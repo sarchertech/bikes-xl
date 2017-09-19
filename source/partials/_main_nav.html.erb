@@ -1,0 +1,104 @@
+<nav class="main-nav">
+  <div onClick="showHamburgerMenu(event);" class="hamburger-button">
+    <span class="hamburger-button__span"></span>
+    <span class="hamburger-button__span"></span>
+    <span class="hamburger-button__span"></span>
+    <span class="hamburger-button__span"></span>
+  </div>
+  <%= partial "partials/logo" %>
+  <% def active_page(page) %>
+    <% if page === current_page.url %>
+      <% "active-page" %>
+    <% else %>
+      <% "" %>
+    <% end %>
+  <% end %>
+  <ul class= "menu">
+    <li class="menu__item">
+      <a href="/index.html" class="menu__link <%= active_page('/index.html/') %> ">Home</a> 
+    </li>
+    <li class="menu__item">
+      <a href="/quick_start" class="menu__link <%= active_page('/quick_start/') %> ">Quick Start</a> 
+    </li>
+    <li class="menu__item">
+      <a href="/blog/frames_and_forks" class="menu__link <%= active_page('/blog/frames_and_forks/') %> ">Frames & Forks</a> 
+    </li>
+    <li class="menu__item">
+      <a href="/blog/wheelsets" class="menu__link <%= active_page('/blog/wheelsets/') %> ">Wheelsets</a> 
+    </li>
+    <li class="menu__item">
+      <a href="/blog/accessories" class="menu__link <%= active_page('/blog/accessories/') %> ">Accessories</a> 
+    </li>
+    <li class="menu__item">
+      <a href="/blog/shop" class="menu__link <%= active_page('/blog/shop/') %> ">Shop</a> 
+    </li>
+    
+  </ul>
+  
+  <p class="main-nav__button">Search</p>
+</nav>
+<div class="hamburger">
+	<ul class="hamburger__list">
+		<li class="hamburger__link" >
+			<a class="hamburger__item" href="/index.html">Home</a>
+		</li>
+		<li class="hamburger__link" >
+			<a class="hamburger__item" href="/quick_start">Quick Start</a>
+		</li>
+		<li class="hamburger__link" >
+			<a class="hamburger__item" href="/blog/frames_and_forks">Frames and Forks</a>
+		</li>
+		<li class="hamburger__link" >
+			<a class="hamburger__item" href="/blog/wheelsets">Wheelsets</a>
+		</li>
+		<li class="hamburger__link">
+			<a class="hamburger__item"  href="/blog/accessories">Accessories</a>
+		</li>
+		<li class="hamburger__link" >
+			<a class="hamburger__item" href="/blog/shop">Shop</a>
+		</li>
+		<li class="hamburger__message">
+
+		</li>
+	</ul>
+	<div onClick="hideHamburgerMenu()" class="hamburger__gray">
+	</div>
+</div>
+<script>
+  let hamburgerMenu = document.getElementsByClassName("hamburger")[0]
+  let hamburgerButton = document.getElementsByClassName("hamburger-button")[0]
+  let spanArray = Array.from(hamburgerButton.children)
+  let body = document.body
+  let hamburgerShown = false
+  body.addEventListener('click', hideHamburgerMenu, false);
+
+  function showHamburgerMenu(e) {
+    e.stopPropagation()
+
+    if (hamburgerShown) {
+      hamburgerMenu.classList.remove("hamburger-shown")
+      hamburgerButton.classList.remove("open")
+      hamburgerShown = false
+      return spanArray.map(function(span) {
+        return span.classList.remove("open")
+      }) 
+    } else {
+      hamburgerMenu.classList.add("hamburger-shown")
+      hamburgerButton.classList.add("open")
+      hamburgerShown = true
+      return spanArray.map(function(span) {
+        return span.classList.add("open")
+      }) 
+    }
+  }
+
+  function hideHamburgerMenu() {
+    hamburgerMenu.classList.remove("hamburger-shown")
+    hamburgerButton.classList.remove("open")
+    let spanArray = Array.from(hamburgerButton.children)
+    hamburgerShown = false
+    return spanArray.map(function(span) {
+      return span.classList.remove("open")
+    }) 
+  }
+</script>

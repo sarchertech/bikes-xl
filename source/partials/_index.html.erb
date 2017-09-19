@@ -1,0 +1,18 @@
+<div class="index">
+  <% page_articles.each do |article| %>
+    <div class="index__card">
+      <a href=<%= article.url %>> 
+        <img class="index__img" src=<%= article.data.image %>>
+      </a>
+      <div class="index__wrap">
+        <div class="index__description">
+          <%= link_to article.data.category.titleize, "blog/#{article.data.category}", class: " index__category" %>
+          <time class="index__time"><%= article.date.strftime('%b %e, %Y') %></time>
+        </div>
+        <%= link_to article.title, article, class: "index__title" %>
+        <%= article.summary(500, '...') %>
+        <%= link_to "Read more...", article, class: "index__more" %> 
+      </div>
+    </div>
+  <% end %>
+</div>

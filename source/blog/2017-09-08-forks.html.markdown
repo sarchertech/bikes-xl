@@ -1,0 +1,44 @@
+---
+
+title: Forks and Suspension
+date: 2017-09-08 16:40 UTC
+category: frames_and_forks
+tags: 
+  - frames
+  - forks
+  - suspension
+  
+image: /images/bike5.png
+---
+
+
+<p class="layout-main__paragraph">
+There are three types of forks available for bicycles: air, coil, and rigid. Air and coil suspension will only really be used with 
+diamond frame bikes - like mountain bikes - as they position the rider over the top bar which adds some of the rider's weight to the to the handlebars putting extra stress on the front axle. That being said, most riders won't really need to change out the forks - especially if you are just riding on flat, paved surfaces - but if you are looking concerned with excess stress being placed on the front axle, or if you have weaker wrists you may want to consider changing the forks out if your bike comes stock with rigid forks.
+</p>
+
+<h1 class="layout-main__h1">
+Air Forks
+</h1>
+<p class="layout-main__paragraph"> 
+Air forks use air-chamber compression to act as a sort of shock absorber/spring system. The main benefit to using air forks over coil 
+forks is their ease of adjustment. On the other hand, the main issue with air forks is that they have what is called progressive spring rate. This means that the more the air spring compresses the stiffer the spring becomes and, thus, the harder the bike rides. The "spring" will gradually become harder over time as you will likely hit a few bumps or holes so if you are riding on flat, paved surfaces you will not need to adjust the spring very often.
+</p>
+
+<h1 class="layout-main__h1">
+Coil Forks
+</h1>
+<p class="layout-main__paragraph"> 
+While air forks used compressed air to act as a spring, coil fork suspension uses a metal coil to absorb impact and, unlike air forks, 
+there is much less compression dampening after numerous hits and the maintenance for coild springs is much simpler than it is for air forks. 
+The main problem with adjusting coil springs is that it involves completely changing out the stock or currently installed spring and replacing it with a spring thatis harder or softer so you can gain the desired cushioning for your weight. That being said, some heavier riders might find it more difficult to find a coil spring that can fully support their weight and not bottom out.
+</p>
+
+<h1 class="layout-main__h1">
+Rigid Forks
+</h1>
+<p class="layout-main__paragraph"> 
+There's not a whole lot to say about rigid forks. Many bikes will come stock with rigid forks so there is no addition cost to them. And 
+while these don't offer any extra support they are lighter, provide better steering, and also require no maintenance. But again, if you have any sort of chronic wrist problems you may want to think about changing to a different suspension.
+</p>
+

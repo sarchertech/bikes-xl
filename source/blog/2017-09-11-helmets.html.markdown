@@ -1,0 +1,36 @@
+---
+
+title: Helmets
+date: 2017-09-11 14:31 UTC
+category: accessories
+tags: 
+  - accessories
+  - helmets
+  - pedals
+  - seats
+  
+image: /images/bike5.png
+---
+
+
+<p class="layout-main__paragraph"> 
+Believe me when I say I know how hard it is to find a helmet as a tall person. This may very well be the hardest thing to find that fits well, bike included. Some companies may label their helmets as XXL but they may not even be as large as the XL sizing offered by another company. Because of this it is important - especially when shopping online, where you can't physically try on the helmet - to look for a sizing guide for the company or look at reviews and see if anyone mentioned their measured head size and compare accordingly. To ease your search I've located a few helmet sites, as well as specific helmets, and have them linked below.
+<br>
+<br>
+<a href="https://www.backcountry.com/bike-helmets?p=size%3Aextra-large%7Csize%3AXXL">Backcountry</a> offers a pretty good selection of cycling helmets. There are quite a few motocross and BMX helmets so you'll have to look around to find what works well for you.
+<br>
+<br>
+<a href="https://www.competitivecyclist.com/bike-helmets?p=size%3Aextra-large%7Csize%3AXXL">Competitive Cyclist</a> has a similar selection to Backcountry but has more reviews. Like Backcountry, you will have to sift through some motorcross and BMX helmets to find what you are looking for.
+<br>
+<br>
+The <a href="https://www.amazon.com/Kask-Mojito-Helmet-Black-Medium/dp/B01CISD0W6">Kask Mojito</a> is a great choice. This helmet is is comfortable, lightweight, and has good ventillation. 
+<br>
+<br>
+The <a href="https://www.amazon.com/Giro-Montaro-MIPS-Helmet-Titanium/dp/B01LKXSNQI">Giro Montaro</a> has an anti-microbial padding, a visor, and is equipped with a Multi-directional Impact Protection System.
+<br>
+<br>
+Another Giro helmet is the <a href="https://www.amazon.com/Giro-Savant-Helmet-Matte-Black/dp/B00MX8ZLGA">Giro Savant</a> which has more of a road bike style design comparted to the Montaro. The Savant also features the Multi-directional Impact Protection System and will definitely keep your head cool with a 25 vent system.
+<br>
+<br>
+The <a href="https://www.amazon.com/Bern-Unlimited-Summer-Helmet-X-Large/dp/B016MXDMV2">Bern Watts</a> is a multi-season and multi-sport helmet lined with  Expanded Polystyrene foam. Because this is a multi-season and multi-sport helmet there are a variety of liners that can be clipped into the helmet for whatever weather or sport your are using it for.
+</p>

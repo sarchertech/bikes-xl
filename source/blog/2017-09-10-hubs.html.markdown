@@ -1,0 +1,28 @@
+---
+
+title: Types of Gear Hubs
+date: 2017-09-10 09:57 UTC
+category: wheelsets
+tags: 
+  - hubs
+  - gear_hub
+  - wheels
+  - wheel_sets
+  
+image: /images/bike5.png
+---
+
+
+<h1 class="layout-main__h1">
+Threaded Freewheel
+</h1>
+<p class="layout-main__paragraph"> 
+The threaded freewheel gear hub is commonly found on older bike, as well as newer, less expensive bikes. With a freewheel the wheel hub has threads machined directly onto it which the cog set can then be threaded onto. The main problem with the freewheel is the closer distance of the bearings leaves the hub side of the axle extended out which makes it more prone to bending or deforming.
+</p>
+
+<h1 class="layout-main__h1">
+Cassette Freehub
+</h1>
+<p class="layout-main__paragraph"> 
+A cassette freehub is attached to a wheel hub via a splined cassette cylinder. The cogs fit over the splines of the cylinder, rather than being threaded directly onto the wheel hub like the the freewheel. Because cassettes have a longer and enclosed hub the bearings are able to be spread farther apart which it makes the axle more durable and comparatively stronger. Another advantage of cassettes is that cassette cogs can come either separated or rivetted together. It doesn't sound like much if your cassette has separated cogs this makes them easier to clean and, thus, increases the life of your bike.
+</p>

@@ -1,0 +1,18 @@
+---
+
+title: Pedals
+date: 2017-09-12 14:31 UTC
+category: accessories
+tags: 
+  - accessories
+  - helmets
+  - pedals
+  - seats
+
+image: /images/bike5.png
+---
+
+
+<p class="layout-main__paragraph"> 
+Pedals break, it happens. More often for bigger riders than smaller riders. But one cheap upgrade you can make to your bike is switching from the standard plastic pedals to metal pedals. The advantages should be pretty obviously, what with metal pedals being significantly more durable than plastic. If, for some reason though, you are planning on using your bike to do some off-road mountain biking many experienced riders will say that taking metal pedal to the shin and will recommend using plastic.
+</p>

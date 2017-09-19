@@ -1,0 +1,35 @@
+---
+
+title: Single Walled, Double Walled, and Triple Walled Rims. Oh my!
+date: 2017-08-23 21:17 UTC
+category: wheelsets
+tags: 
+  - rims
+  - rim_sizes
+  - wheels
+  - wheel_sets
+  
+image: /images/bike4.png
+---
+
+
+<h1 class="layout-main__h1">
+Single Walled Rim (INSERT PHOTO)
+</h1>
+<p class="layout-main__paragraph"> 
+Single walled rims are made as a single piece of metal which is typically extruded, bent, and either pinned or welded together. The average rider would get by fine using this type of rim, though its manufacturer production is slowing and replacing it with double walled rims. 
+</p>
+
+<h1 class="layout-main__h1">
+Double Walled Rim (INSERT PHOTO)
+</h1>
+<p class="layout-main__paragraph"> 
+Double walled rims have taken the single walled design but added an additional bracing between the sidewalls and the connecting seam is welded. Double walled rims have become the most common type of rim and offers an greater structural integrity than single walled rims. For heavy riders this would be your best choice, espscially because these come stock on most bikes nowadays. 
+</p>
+
+<h1 class="layout-main__h1">
+Triple Walled Rim (INSERT PHOTO)
+</h1>
+<p class="layout-main__paragraph"> 
+Triple walled rims work off of the expanded double wall design and add two additional small braces to the inner sidewall section. Honestly, while this sounds like it provide the most rim support most riders say that it offers no noticeable structural benefits. You should also know that these wheels are not very common, and if found can be comparatively expensive. 
+</p>

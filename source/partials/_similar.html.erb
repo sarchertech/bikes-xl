@@ -1,0 +1,20 @@
+<h1 class="side-list__header"> Similar Posts </h1>
+<div class="side-list">
+  <% tags = current_page.tags.sample(1) %>
+  <% tags_hash = {} %>
+  <% tags.each do |tag| %>
+    <% tags_hash[tag] = blog.articles.select {|a| a.tags.include?(tag) } %>
+  <% end %>
+  <% tags_hash.each do |tag, articles| %>
+    <% articles.sample(4).each do |article| %>
+      <article class="side-list__card">
+        <a href=<%= article.url %>>	
+          <figure class="side-list__opacity">
+            <img class="side-list__img" src=<%= article.data.image %>>
+          </figure>
+        </a>
+        <a class="side-list__title" href="<%= article.url %>"><%= article.title %></a>
+      </article>
+    <% end %>
+  <% end %>
+</div>
